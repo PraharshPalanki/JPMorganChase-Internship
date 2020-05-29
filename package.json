@@ -1,8 +1,9 @@
 {
-  "name": "bank-merge-co-task-2",
+  "name": "bank-merge-co-task-3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@finos/perspective": "^0.4.8",
     "@jpmorganchase/perspective": "^0.2.12",
     "@jpmorganchase/perspective-viewer": "^0.2.12",
     "@jpmorganchase/perspective-viewer-highcharts": "^0.2.12",
